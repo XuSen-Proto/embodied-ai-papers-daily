@@ -1,19 +1,19 @@
 # 📚 arXiv 每日论文索引
 
-_最后更新：2026-09-15（UTC）。每日由 GitHub Actions 自动运行。_
+_最后更新：2026-09-16（UTC）。每日由 GitHub Actions 自动运行。_
 
-当前共收录 **1184** 篇论文，分为 7 个主题。
+当前共收录 **1238** 篇论文，分为 7 个主题。
 
 ## 主题分类
 
 | 主题 | 累计 | 本次新增 | 文件 |
 | --- | --- | --- | --- |
-| 人形机器人 (Humanoid Robots) | 78 | — | [humanoid-robots.md](humanoid-robots.md) |
-| 四足机器人 (Quadruped Robots) | 75 | — | [quadruped-robots.md](quadruped-robots.md) |
-| 强化学习运动控制 (RL Locomotion & Control) | 117 | — | [rl-locomotion-control.md](rl-locomotion-control.md) |
-| VLA 视觉-语言-动作 (Vision-Language-Action) | 327 | — | [vla.md](vla.md) |
-| 世界模型 (World Models) | 398 | — | [world-models.md](world-models.md) |
-| 物理AI / 具身智能 (Physical & Embodied AI) | 162 | — | [physical-embodied-ai.md](physical-embodied-ai.md) |
-| 角色动画 (Character Animation) | 27 | — | [character-animation.md](character-animation.md) |
+| 人形机器人 (Humanoid Robots) | 84 | +6 | [humanoid-robots.md](humanoid-robots.md) |
+| 四足机器人 (Quadruped Robots) | 81 | +6 | [quadruped-robots.md](quadruped-robots.md) |
+| 强化学习运动控制 (RL Locomotion & Control) | 121 | +4 | [rl-locomotion-control.md](rl-locomotion-control.md) |
+| VLA 视觉-语言-动作 (Vision-Language-Action) | 341 | +14 | [vla.md](vla.md) |
+| 世界模型 (World Models) | 414 | +16 | [world-models.md](world-models.md) |
+| 物理AI / 具身智能 (Physical & Embodied AI) | 167 | +5 | [physical-embodied-ai.md](physical-embodied-ai.md) |
+| 角色动画 (Character Animation) | 30 | +3 | [character-animation.md](character-animation.md) |
 
-> 本次运行新增 **0** 篇。
+> 本次运行新增 **54** 篇。
